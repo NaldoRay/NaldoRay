@@ -1,4 +1,4 @@
-I only use GitHub for the embeddable gists that're used for my writings,
+I only use GitHub for archived individual projects and embeddable gists that're used for my writings,
 and also for tracking GitHub's projects. 
 
 You won't find anything interesting here.
